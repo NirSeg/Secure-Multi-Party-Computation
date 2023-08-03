@@ -47,7 +47,7 @@ An enhancement of our implementation of the BeDOZa protocol (assignments 3). It 
 ## [Assignment 5:](HW5) BeDOZa protocol with a general functionality (bonus)
 An extension of our implementation of the BeDOZa protocol (assignments 3-4) to general functionality.
 
-[Report](HW5/Report.pdf) 
+[Code](HW5) 
 
 ## [Assignment 6:](HW6) Oblivious Transfer to Replace Dealer
 Elimination of the need for the dealer in BeDOZa protocol we implemented in assignment 4 using a 1-out-of-n OT protocol against active adversaries.
@@ -66,7 +66,9 @@ An implementation of Yao’s protocol for the Boolean circuit evaluating Equatio
 ## [Assignment 8:](HW8) Homormorphic Encryption
 [Report](HW8/Report.pdf) 
 
-## [Final Project](Final Project) "Don’t be Dense: Efficient Keyword PIR for Sparse Databases"
-[Report](Final Project/Report.pdf)
+## [Final Project:](Final_Project) "Don’t be Dense: Efficient Keyword PIR for Sparse Databases"
+[The paper: "Don’t be Dense: Efficient Keyword PIR for Sparse Databases"](Final_Project/Paper)
 
-[Slides](Final Project/Slides.pdf)
+[Report](Final_Project/Report.pdf)
+
+[Slides](Final_Project/Slides.pdf)
