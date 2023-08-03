@@ -4,20 +4,20 @@
 ## Introduction
 ### Equation 1:
 <p align="center">
-  <img src="https://github.com/HallelWeinberg/Secure-Multi-Party-Computation/assets/100043559/3b5e64fb-2fcf-4025-a1bf-102029186962">
+  <img src="https://github.com/HallelWeinberg/Secure-Multi-Party-Computation/assets/100043559/21f24a2e-e087-4f92-9269-ea9c47ab6980">
 </p>
 
 <p align="center">
-  <img src="https://github.com/HallelWeinberg/Secure-Multi-Party-Computation/assets/100043559/372f76d8-d264-4980-81a6-71ef7364e62c">
+  <img src="https://github.com/HallelWeinberg/Secure-Multi-Party-Computation/assets/100043559/b84d519f-30cc-46ed-941b-d944e7d8202c">
 </p>
 
 ### Equation 2:
 <p align="center">
-  <img src="https://github.com/HallelWeinberg/Secure-Multi-Party-Computation/assets/100043559/da45457a-20c2-4127-9366-e8fed693d706">
+  <img src="https://github.com/HallelWeinberg/Secure-Multi-Party-Computation/assets/100043559/58e36fd7-8aae-44c6-a645-9dc8907f1759">
 </p>
 
 <p align="center">
-  <img src="https://github.com/HallelWeinberg/Secure-Multi-Party-Computation/assets/100043559/ab566d51-64f1-42dd-bc61-75c71035fde4">
+  <img src="https://github.com/HallelWeinberg/Secure-Multi-Party-Computation/assets/100043559/bdfdf0d6-7d07-460b-9dd3-08e7e375ce19">
 </p>
 
 ## [Assignment 1:](HW1)  Truth-table and circuits for sign activation 
